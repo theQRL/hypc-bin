@@ -35,13 +35,23 @@
       "keccak256": "0x2d4dd4f9e2597bcddfbed8b7abcf546e255462444bdfc368d900b7eea71cb899",
       "sha256": "0x1ba6f1ea91a796701208d04dc82f37b8cac7bfb9710e7ac89058c5745861ad99",
       "urls": []
+    },
+    {
+      "path": "hypjson-v0.3.1+commit.f8af5b22.js",
+      "version": "0.3.1",
+      "build": "commit.f8af5b22",
+      "longVersion": "0.3.1+commit.f8af5b22",
+      "keccak256": "0x6c38644ba44965d8afc47feab978fffbc1c062897060c9a714e741ae3d8fb79a",
+      "sha256": "0x2ffebb70056bb40f84d3285ae11c37bd53310e66a3f1ac23edc2d37c0e79a082",
+      "urls": []
     }
   ],
   "releases": {
+    "0.3.1": "hypjson-v0.3.1+commit.f8af5b22.js",
     "0.2.0": "hypjson-v0.2.0+commit.e36a0aea.js",
     "0.1.0": "hypjson-v0.1.0+commit.4b493011.js",
     "0.0.2": "hypjson-v0.0.2+commit.3e18e55d.js",
     "0.0.1": "hypjson-v0.0.1+commit.360d2d05.js"
   },
-  "latestRelease": "0.2.0"
+  "latestRelease": "0.3.1"
 }
